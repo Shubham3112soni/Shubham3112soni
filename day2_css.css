@@ -1,0 +1,26 @@
+body{
+	background-color: #333333;
+	font-family: 'Roboto', sans-serif;
+}
+legend{
+	text-align: center;
+	font-size: 33px;
+	color: white;
+}
+fieldset{
+	width: 40%;
+	background-color: #333333;
+	color: white;
+	border-color: white;
+	text-align: center;
+}
+table{
+	color: white;
+	text-align: center;
+}
+h2{
+	color: white;
+}
+footer{
+	text-align: left;
+}
